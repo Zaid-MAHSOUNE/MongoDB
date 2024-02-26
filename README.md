@@ -1,5 +1,7 @@
 # MongoDB :
 
+[Image of MongoDB Logo](https://www.mongodb.com/sites/default/files/assets/img/logo.svg)
+
 This repository documents my exploration of MongoDB, a NoSQL database, through a recent course. It captures the key takeaways I gained from the learning journey, providing a concise reference point for future use.
 
 **Covered Topics:**
